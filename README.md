@@ -11,7 +11,7 @@ O Projeto consiste em um aplicativo de teclado virtual simples que reproduz sons
 
 ## Layout web
 
-[<img src="/assets/gif_midi.gif" alt="video da tela do projeto">]
+<img src="/assets/gif_midi.gif" alt="video da tela do projeto">
 
 ##Tecnologias utilizadas
 -HTML
