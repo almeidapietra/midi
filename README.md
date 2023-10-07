@@ -43,7 +43,7 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos 
 
 
 ### Agradecimentos
-Agradeço ao [CloudGilrs](https:www.cloudgirls.com.br/mentoria// "Site do CloudGirls"), por ter me dado a oportunidade de acesso à plataforma Alura como parte da mentoria. 
+Agradeço ao [CloudGirls](https:www.cloudgirls.com.br/mentoria// "Site do CloudGirls"), por ter me dado a oportunidade de acesso à plataforma Alura como parte da mentoria. 
 
 
 Pietra Almeida
